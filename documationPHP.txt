@@ -1,0 +1,27 @@
+                 
+
+My Defination : Online Fast Food (Web Application)
+
+->Step 1:Admin 
+              *Admin can controls website procrsses such as order,delivery and payment.
+              *Login
+              *Order_details
+              *Customer_details
+              *product_details,etc....
+
+->Step 2:User/Customer
+             *Customer is also used manage profile,payment,add/remove items.
+             *Registration
+             *Home
+             *Product
+             *Order
+             *SignUP,SignIN,etc.....
+
+->Step 3:Delivery boy
+             *delivery boy can used view order and deliver order.
+             *Login 
+             *Manage profile
+             *Accept order
+             *Share live location
+             
+         
